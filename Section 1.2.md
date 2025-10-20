@@ -1,11 +1,11 @@
 For a Non-native English speakers,section 1.1 is a little bit boring,so let's start with mathmatical part
 
 ###  Section 1.2. Divisibility and Greatest Common Divisors
- **1.6.** Let \( a, b, c \in \mathbb{Z} \). Use the definition of divisibility to directly prove the following properties of divisibility. (This is Proposition 1.4.)
+ **1.6.** Let $a, b, c \in \mathbb{Z}$. Use the definition of divisibility to directly prove the following properties of divisibility. (This is Proposition 1.4.)
 
-(a) If \( a \mid b \) and \( b \mid c \), then \( a \mid c \).
+(a) If $a \mid b$ and $b \mid c$, then $a \mid c$.
 
-(b) If \( a \mid b \) and \( b \mid a \), then \( a = \pm b \).
+(b) If $a\mid b$ and $b \mid a$, then $a = \pm b $.
 
 (c) If \( a \mid b \) and \( a \mid c \), then \( a \mid (b + c) \) and \( a \mid (b - c) \).
 
